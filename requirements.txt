@@ -1,0 +1,5 @@
+ipython==8.12.3
+langchain==0.1.17
+langchain_community==0.0.36
+langchain_openai==0.1.4
+openai==1.25.0
