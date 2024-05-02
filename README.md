@@ -14,7 +14,7 @@ Clone the repo and install the requirements.txt:
 
 ```bash 
 Question:
-My car dripping something dark on the floor, what that it means?
+My car is dripping something dark on the floor, what that it means?
 
 Answer:
 If your car is dripping something dark on the floor, it could indicate an oil leak.
